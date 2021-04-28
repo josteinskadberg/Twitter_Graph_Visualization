@@ -1,12 +1,12 @@
 from flask import Flask, flash, render_template, url_for, request, redirect
-from datetime import datetime
 from source.graph_renderer import render_graph
 from source.Jumper import Twitter_BFS
 import networkx as nx
 import re
-import time
-app = Flask(__name__)
-app.secret_key = 'ddklsjl5kjelkj3kl908hjfflkf'
+
+app = Flask(__name__, instance_relative_config=True)
+app.config.from_object('config')
+app.config.from_pyfile('config.py')
 G = render_graph()[2]
 
 
