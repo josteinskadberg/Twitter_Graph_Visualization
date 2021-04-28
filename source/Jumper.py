@@ -68,7 +68,7 @@ class Twitter_BFS(Crawler):
 
     def get_tags(self):
         try:
-            hashtags = WebDriverWait(self.driver, 30).until(
+            hashtags = WebDriverWait(self.driver, 10).until(
                 EC.visibility_of_all_elements_located(
                     (By.XPATH,
                      "//a[@class='css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0' and contains(@href, 'hashtag_click')]")
