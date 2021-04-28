@@ -12,7 +12,7 @@ import networkx as nx
 
 def render_graph(G=None):
     if G is None:
-        G = nx.read_graphml("test.graphml")
+        G = nx.read_graphml("./static/initial_graph.graphml")
     degrees = dict(nx.degree(G))
 
     # set degree for each node

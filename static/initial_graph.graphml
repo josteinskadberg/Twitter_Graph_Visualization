@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="#BERGEN"/>
+<node id="#ÅSANE"/>
+<node id="#FLYTTING"/>
+<node id="#NYLEILIGHET"/>
+<node id="#DRAP"/>
+<node id="#OBOS"/>
+<node id="#FLAX"/>
+<node id="#FOTBALL"/>
+<node id="#VIKINGFK"/>
+<node id="#ESNBALL"/>
+<node id="#KOLLEKTIVTRANSPORT"/>
+<node id="#SALHUS"/>
+<node id="#BYSTYRETIBERGEN"/>
+<node id="#TJOBING"/>
+<node id="#OPPUSSING"/>
+<node id="#LYKKE"/>
+<node id="#MATPRAT"/>
+<node id="#BOLIG"/>
+<node id="#FLYTTEMELDING"/>
+<node id="#SMARTLÆRING"/>
+<node id="#KONFERANSETIMER"/>
+<node id="#NMJAN"/>
+<node id="#SKOLEKORPS"/>
+<node id="#SARPSBORG"/>
+<node id="#FAMILIEDRAMA"/>
+<node id="#50TRAPPETRINN"/>
+<node id="#FLYTTE"/>
+<node id="#NEVERENDINGSTORY"/>
+<node id="#FB"/>
+<node id="#RYDDET"/>
+<node id="#WALKINCLOSET"/>
+<node id="#RYDDIG"/>
+<node id="#ORDNUNGMUSSSEIN"/>
+<node id="#KALBAKKEN"/>
+<node id="#GJELDSSLAVE"/>
+<node id="#RØA"/>
+<node id="#KAFFESLABERAS"/>
+<node id="#NYSENG"/>
+<node id="#HUNNDALEN"/>
+<node id="#PHARMAINDUSTRY"/>
+<node id="#COVID19"/>
+<node id="#SINOVAC"/>
+<node id="#COVIDVACCINE"/>
+<node id="#ISLAMABAD"/>
+<node id="#CORONAVAC"/>
+<node id="#TROMSØ"/>
+<node id="#ELITESERIEN"/>
+<node id="#TUIL"/>
+<node id="#TIL"/>
+<node id="#DAX18"/>
+<node id="#GROUNDHOPPING"/>
+<node id="#HOMEGROWNHOMEPUN"/>
+<node id="#HAPPYWHENITRAINS"/>
+<node id="#GOGATORS"/>
+<node id="#ALLESNAKKERKORPS"/>
+<node id="#UEL"/>
+<node id="#BREDDEFOTBALL"/>
+<node id="#OSLO"/>
+<node id="#GRORUDDALEN"/>
+<node id="#2FOTBALL"/>
+<node id="#NORGE"/>
+<node id="#EURO2020"/>
+<node id="#STERKERESAMMEN"/>
+<node id="#QUIZ"/>
+<node id="#ESNFANTASY"/>
+<node id="#FANTASYSONEN"/>
+<node id="#KLIMA"/>
+<node id="#MILJØ"/>
+<node id="#BYUTVIKLING"/>
+<node id="#FELLESSKAP"/>
+<node id="#BRAKAR"/>
+<node id="#BFK"/>
+<node id="#MINDRE"/>
+<node id="#FLYPLASS"/>
+<node id="#URBANWATERSHUTTLE"/>
+<node id="#RUTER"/>
+<node id="#FOSSILFRI"/>
+<node id="#LUFTFORURENSNING"/>
+<node id="#ASTMA"/>
+<node id="#ALLERGI"/>
+<node id="#SYKLEPÅJOBB"/>
+<node id="#KVARDAGSYKLIST"/>
+<node id="#TAPERE"/>
+<node id="#PENSJONISTER"/>
+<node id="#TOG"/>
+<node id="#BIL"/>
+<node id="#ÆRLIGTALT"/>
+<node id="#MUHO"/>
+<node id="#LISTEFØRT"/>
+<node id="#HIKE"/>
+<node id="#FJORD"/>
+<node id="#NORWAY"/>
+<node id="#NATURE"/>
+<node id="#PICOFTHEDAY"/>
+<node id="#ANBUD"/>
+<node id="#JOBB"/>
+<node id="#ELEKTRIKER"/>
+<node id="#LANDSCAPE"/>
+<node id="#SUNSET"/>
+<node id="#EVENING"/>
+<node id="#PHOTO"/>
+<node id="#PHOTOGRAPHY"/>
+<node id="#WATER"/>
+<node id="#BETONG"/>
+<node id="#GIS_BORT"/>
+<node id="#LEKKERBISKEN"/>
+<node id="#SALMALAKS"/>
+<node id="#RENESMAKER"/>
+<node id="#GODSTEMNING"/>
+<node id="#GUTTETUR"/>
+<node id="#KONGE"/>
+<node id="#DRONGEN"/>
+<node id="#TELLEVIK"/>
+<node id="#HORDVIK"/>
+<node id="#NORHORDLAND"/>
+<node id="#JULESTEMNINGEN"/>
+<node id="#BRØNNØYSUND"/>
+<node id="#EIENDOMSSKATT"/>
+<node id="#HASJ"/>
+<node id="#HØYRE"/>
+<node id="#SOMOMDETWARLOEIGÅR"/>
+<node id="#HASHTAGBONANZA"/>
+<node id="#NSB"/>
+<node id="#FRP"/>
+<node id="#VALG2015"/>
+<node id="#HØYTTEMPO"/>
+<node id="#HERGÅRDETUNNA"/>
+<node id="#TIDSKLEMMA"/>
+<node id="#MAX"/>
+<node id="#FCK"/>
+<node id="#TV2OL"/>
+<node id="#LAMANGA"/>
+<node id="#FOTBALLFRUE"/>
+<node id="#OPPKJØRING"/>
+<node id="#NYBYGG"/>
+<node id="#BØFSANDWICH"/>
+<node id="#DEBRUNERIDDERE"/>
+<node id="#WEISSBIER"/>
+<node id="#LÆRERHVERDAG"/>
+<node id="#PORTVIN"/>
+<node id="#SJOKOLADE"/>
+<node id="#DENFØLELSEN"/>
+<node id="#MATGLEDE"/>
+<node id="#MATHALLEN"/>
+<node id="#ORGANIC"/>
+<node id="#TINY"/>
+<node id="#MINI"/>
+<node id="#PIE"/>
+<node id="#VULKAN"/>
+<node id="#FOOD"/>
+<node id="#INSTAFOOD"/>
+<node id="#WOLT"/>
+<node id="#WOLTAPP"/>
+<node id="#OSLOVE"/>
+<node id="#VISITOSLO"/>
+<node id="#MAT"/>
+<node id="#OSLOBY"/>
+<node id="#MATBLOGG"/>
+<node id="#GODMAT"/>
+<node id="#RESTAURANT"/>
+<node id="#KARAOKE"/>
+<node id="#BAR"/>
+<node id="#HVASKJEROSLO"/>
+<node id="#IDAG"/>
+<node id="#OSLONATT"/>
+<node id="#EIENDOM"/>
+<node id="#INVESTERING"/>
+<node id="#IT2901"/>
+<node id="#LOS"/>
+<node id="#ADRESSEENDRING"/>
+<node id="#BSU"/>
+<node id="#POSTKODELOTTERIET"/>
+<node id="#HYTTEFOLK"/>
+<node id="#PANNEKLASK"/>
+<node id="#OTTAR"/>
+<edge source="#BERGEN" target="#ÅSANE"/>
+<edge source="#BERGEN" target="#SALHUS"/>
+<edge source="#BERGEN" target="#BYSTYRETIBERGEN"/>
+<edge source="#ÅSANE" target="#FLYTTING"/>
+<edge source="#ÅSANE" target="#NYLEILIGHET"/>
+<edge source="#ÅSANE" target="#DRAP"/>
+<edge source="#ÅSANE" target="#OBOS"/>
+<edge source="#ÅSANE" target="#FLAX"/>
+<edge source="#ÅSANE" target="#FOTBALL"/>
+<edge source="#ÅSANE" target="#VIKINGFK"/>
+<edge source="#ÅSANE" target="#ESNBALL"/>
+<edge source="#ÅSANE" target="#KOLLEKTIVTRANSPORT"/>
+<edge source="#ÅSANE" target="#SALHUS"/>
+<edge source="#ÅSANE" target="#BYSTYRETIBERGEN"/>
+<edge source="#FLYTTING" target="#TJOBING"/>
+<edge source="#FLYTTING" target="#OPPUSSING"/>
+<edge source="#FLYTTING" target="#LYKKE"/>
+<edge source="#FLYTTING" target="#MATPRAT"/>
+<edge source="#FLYTTING" target="#BOLIG"/>
+<edge source="#FLYTTING" target="#FLYTTEMELDING"/>
+<edge source="#FLYTTING" target="#SMARTLÆRING"/>
+<edge source="#FLYTTING" target="#KONFERANSETIMER"/>
+<edge source="#FLYTTING" target="#NMJAN"/>
+<edge source="#FLYTTING" target="#SKOLEKORPS"/>
+<edge source="#FLYTTING" target="#SARPSBORG"/>
+<edge source="#FLYTTING" target="#FAMILIEDRAMA"/>
+<edge source="#FLYTTING" target="#50TRAPPETRINN"/>
+<edge source="#NYLEILIGHET" target="#FLYTTE"/>
+<edge source="#NYLEILIGHET" target="#NEVERENDINGSTORY"/>
+<edge source="#NYLEILIGHET" target="#FB"/>
+<edge source="#NYLEILIGHET" target="#RYDDET"/>
+<edge source="#NYLEILIGHET" target="#WALKINCLOSET"/>
+<edge source="#NYLEILIGHET" target="#RYDDIG"/>
+<edge source="#NYLEILIGHET" target="#ORDNUNGMUSSSEIN"/>
+<edge source="#NYLEILIGHET" target="#KALBAKKEN"/>
+<edge source="#NYLEILIGHET" target="#GJELDSSLAVE"/>
+<edge source="#NYLEILIGHET" target="#RØA"/>
+<edge source="#NYLEILIGHET" target="#KAFFESLABERAS"/>
+<edge source="#NYLEILIGHET" target="#NYSENG"/>
+<edge source="#NYLEILIGHET" target="#HUNNDALEN"/>
+<edge source="#DRAP" target="#PHARMAINDUSTRY"/>
+<edge source="#DRAP" target="#COVID19"/>
+<edge source="#DRAP" target="#SINOVAC"/>
+<edge source="#DRAP" target="#COVIDVACCINE"/>
+<edge source="#DRAP" target="#ISLAMABAD"/>
+<edge source="#DRAP" target="#CORONAVAC"/>
+<edge source="#OBOS" target="#TROMSØ"/>
+<edge source="#OBOS" target="#ELITESERIEN"/>
+<edge source="#OBOS" target="#TUIL"/>
+<edge source="#OBOS" target="#TIL"/>
+<edge source="#OBOS" target="#DAX18"/>
+<edge source="#OBOS" target="#GROUNDHOPPING"/>
+<edge source="#FLAX" target="#HOMEGROWNHOMEPUN"/>
+<edge source="#FLAX" target="#HAPPYWHENITRAINS"/>
+<edge source="#FLAX" target="#GOGATORS"/>
+<edge source="#FOTBALL" target="#ALLESNAKKERKORPS"/>
+<edge source="#FOTBALL" target="#UEL"/>
+<edge source="#FOTBALL" target="#BREDDEFOTBALL"/>
+<edge source="#FOTBALL" target="#OSLO"/>
+<edge source="#FOTBALL" target="#GRORUDDALEN"/>
+<edge source="#FOTBALL" target="#2FOTBALL"/>
+<edge source="#FOTBALL" target="#NORGE"/>
+<edge source="#FOTBALL" target="#EURO2020"/>
+<edge source="#FOTBALL" target="#STERKERESAMMEN"/>
+<edge source="#FOTBALL" target="#QUIZ"/>
+<edge source="#ESNBALL" target="#ESNFANTASY"/>
+<edge source="#ESNBALL" target="#FANTASYSONEN"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#KLIMA"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#MILJØ"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#BYUTVIKLING"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#FELLESSKAP"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#BRAKAR"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#BFK"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#MINDRE"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#FLYPLASS"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#URBANWATERSHUTTLE"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#RUTER"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#FOSSILFRI"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#LUFTFORURENSNING"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#ASTMA"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#ALLERGI"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#SYKLEPÅJOBB"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#KVARDAGSYKLIST"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#TAPERE"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#PENSJONISTER"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#TOG"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#BIL"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#ÆRLIGTALT"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#SALHUS"/>
+<edge source="#KOLLEKTIVTRANSPORT" target="#BYSTYRETIBERGEN"/>
+<edge source="#SALHUS" target="#MUHO"/>
+<edge source="#SALHUS" target="#LISTEFØRT"/>
+<edge source="#SALHUS" target="#HIKE"/>
+<edge source="#SALHUS" target="#FJORD"/>
+<edge source="#SALHUS" target="#NORWAY"/>
+<edge source="#SALHUS" target="#NATURE"/>
+<edge source="#SALHUS" target="#PICOFTHEDAY"/>
+<edge source="#SALHUS" target="#ANBUD"/>
+<edge source="#SALHUS" target="#JOBB"/>
+<edge source="#SALHUS" target="#ELEKTRIKER"/>
+<edge source="#SALHUS" target="#LANDSCAPE"/>
+<edge source="#SALHUS" target="#SUNSET"/>
+<edge source="#SALHUS" target="#EVENING"/>
+<edge source="#SALHUS" target="#PHOTO"/>
+<edge source="#SALHUS" target="#PHOTOGRAPHY"/>
+<edge source="#SALHUS" target="#WATER"/>
+<edge source="#SALHUS" target="#BETONG"/>
+<edge source="#SALHUS" target="#GIS_BORT"/>
+<edge source="#SALHUS" target="#LEKKERBISKEN"/>
+<edge source="#SALHUS" target="#SALMALAKS"/>
+<edge source="#SALHUS" target="#RENESMAKER"/>
+<edge source="#SALHUS" target="#GODSTEMNING"/>
+<edge source="#SALHUS" target="#GUTTETUR"/>
+<edge source="#SALHUS" target="#KONGE"/>
+<edge source="#SALHUS" target="#DRONGEN"/>
+<edge source="#SALHUS" target="#TELLEVIK"/>
+<edge source="#SALHUS" target="#HORDVIK"/>
+<edge source="#SALHUS" target="#NORHORDLAND"/>
+<edge source="#SALHUS" target="#BYSTYRETIBERGEN"/>
+<edge source="#SALHUS" target="#JULESTEMNINGEN"/>
+<edge source="#SALHUS" target="#ALLESNAKKERKORPS"/>
+<edge source="#SALHUS" target="#BRØNNØYSUND"/>
+<edge source="#BYSTYRETIBERGEN" target="#EIENDOMSSKATT"/>
+<edge source="#BYSTYRETIBERGEN" target="#DAX18"/>
+<edge source="#BYSTYRETIBERGEN" target="#HASJ"/>
+<edge source="#BYSTYRETIBERGEN" target="#HØYRE"/>
+<edge source="#BYSTYRETIBERGEN" target="#SOMOMDETWARLOEIGÅR"/>
+<edge source="#BYSTYRETIBERGEN" target="#HASHTAGBONANZA"/>
+<edge source="#TJOBING" target="#NSB"/>
+<edge source="#TJOBING" target="#FRP"/>
+<edge source="#TJOBING" target="#VALG2015"/>
+<edge source="#TJOBING" target="#HØYTTEMPO"/>
+<edge source="#TJOBING" target="#HERGÅRDETUNNA"/>
+<edge source="#TJOBING" target="#TIDSKLEMMA"/>
+<edge source="#TJOBING" target="#MAX"/>
+<edge source="#TJOBING" target="#FCK"/>
+<edge source="#TJOBING" target="#OPPUSSING"/>
+<edge source="#OPPUSSING" target="#TV2OL"/>
+<edge source="#OPPUSSING" target="#LAMANGA"/>
+<edge source="#OPPUSSING" target="#FOTBALLFRUE"/>
+<edge source="#OPPUSSING" target="#OPPKJØRING"/>
+<edge source="#OPPUSSING" target="#NYBYGG"/>
+<edge source="#LYKKE" target="#BØFSANDWICH"/>
+<edge source="#LYKKE" target="#DEBRUNERIDDERE"/>
+<edge source="#LYKKE" target="#WEISSBIER"/>
+<edge source="#LYKKE" target="#LÆRERHVERDAG"/>
+<edge source="#LYKKE" target="#PORTVIN"/>
+<edge source="#LYKKE" target="#SJOKOLADE"/>
+<edge source="#LYKKE" target="#DENFØLELSEN"/>
+<edge source="#MATPRAT" target="#MATGLEDE"/>
+<edge source="#MATPRAT" target="#MATHALLEN"/>
+<edge source="#MATPRAT" target="#ORGANIC"/>
+<edge source="#MATPRAT" target="#TINY"/>
+<edge source="#MATPRAT" target="#MINI"/>
+<edge source="#MATPRAT" target="#PIE"/>
+<edge source="#MATPRAT" target="#VULKAN"/>
+<edge source="#MATPRAT" target="#OSLO"/>
+<edge source="#MATPRAT" target="#FOOD"/>
+<edge source="#MATPRAT" target="#INSTAFOOD"/>
+<edge source="#MATPRAT" target="#WOLT"/>
+<edge source="#MATPRAT" target="#WOLTAPP"/>
+<edge source="#MATPRAT" target="#OSLOVE"/>
+<edge source="#MATPRAT" target="#VISITOSLO"/>
+<edge source="#MATPRAT" target="#MAT"/>
+<edge source="#MATPRAT" target="#OSLOBY"/>
+<edge source="#MATPRAT" target="#MATBLOGG"/>
+<edge source="#MATPRAT" target="#GODMAT"/>
+<edge source="#MATPRAT" target="#RESTAURANT"/>
+<edge source="#MATPRAT" target="#KARAOKE"/>
+<edge source="#MATPRAT" target="#BAR"/>
+<edge source="#MATPRAT" target="#HVASKJEROSLO"/>
+<edge source="#MATPRAT" target="#IDAG"/>
+<edge source="#MATPRAT" target="#OSLONATT"/>
+<edge source="#BOLIG" target="#EIENDOM"/>
+<edge source="#BOLIG" target="#INVESTERING"/>
+<edge source="#FLYTTEMELDING" target="#IT2901"/>
+<edge source="#FLYTTEMELDING" target="#LOS"/>
+<edge source="#FLYTTEMELDING" target="#ADRESSEENDRING"/>
+<edge source="#FLYTTEMELDING" target="#BSU"/>
+<edge source="#FLYTTEMELDING" target="#POSTKODELOTTERIET"/>
+<edge source="#FLYTTEMELDING" target="#HYTTEFOLK"/>
+<edge source="#FLYTTEMELDING" target="#PANNEKLASK"/>
+<edge source="#FLYTTEMELDING" target="#OTTAR"/>
+</graph></graphml>
