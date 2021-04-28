@@ -20,7 +20,7 @@ def clean(tag, jumps, expand=None):
 
 
 def scrape(tag, jumps, graph=None):
-    scraper = Twitter_BFS(tag, int(jumps), graph=graph)
+    scraper = Twitter_BFS(tag, int(jumps), graph=graph, driver_path=None)
     scraper.crawl()
     if nx.is_empty(scraper.network):
         print("found no edges for", tag)
