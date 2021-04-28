@@ -28,9 +28,11 @@ class Crawler():
     def setup(self, driver_path=None):
         chrome_options = Options()
         chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--window-size=5000,2800")
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument(' --disable-dev-shm-usage')
+        chrome_options.add_argument('--remote-debugging-port=9222')
         if driver_path is None:
             chrome_options.binary_location = os.environ.get(
                 "GOOGLE_CHROME_BIN")
@@ -66,7 +68,7 @@ class Twitter_BFS(Crawler):
 
     def get_tags(self):
         try:
-            hashtags = WebDriverWait(self.driver, 15).until(
+            hashtags = WebDriverWait(self.driver, 30).until(
                 EC.visibility_of_all_elements_located(
                     (By.XPATH,
                      "//a[@class='css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-poiln3 r-bcqeeo r-qvutc0' and contains(@href, 'hashtag_click')]")
