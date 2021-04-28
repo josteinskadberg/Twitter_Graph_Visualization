@@ -1,0 +1,48 @@
+{% extends 'base.html'%}
+
+{%block head%}
+<script type="text/javascript">
+    function loading() {
+        document.getElementsByClassName("bk-root")[0].style.visibility = "hidden"
+        document.getElementsByClassName("loading")[0].style.cssText = "visibility: visible; height:600px;width:600px"
+    }
+</script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.3.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.3.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.3.1.min.js" crossorigin="anonymous"></script>
+{{plot_script|safe}}
+{% endblock %}
+
+{%block body%}
+<div class="flex-container">
+    <div class="item">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        {% for category, message in messages %}
+        <div class="{{ category }}">{{ message }}<div>
+            </div>
+        </div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+        <form action="/" method="POST">
+            <label for="send_tag">#Seach tag</label>
+            <input type="text" name="scrape_param">
+            <label for="scrape_param">Number of jumps</label>
+            <input type="number" name="scrape_param" value=5 min="1" max="20">
+            <label for="send_tag">Expand graph</label>
+            <input type="checkbox" name="scrape_param">
+            <input type="submit" value="Generate graph" onclick="loading();">
+        </form>
+        <div class="loading">
+            <div></div>
+        </div>
+        {{plot_div|safe}}
+
+    </div>
+    <div class="item">
+    </div>
+    <div class="item">
+    </div>
+</div>
+{% endblock %}
